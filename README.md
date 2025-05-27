@@ -1,4 +1,5 @@
 # Scratch Ramen Shop Tycoon (Beta Version)
+**Note: This game is not yet available in English. Thank you for your understanding.**
 
 **Scratch Ramen Shop Tycoon** is a ramen shop management simulation game made with Scratch.  
 Open your very own ramen shop, serve delicious bowls to customers, and aim to become the No.1 ramen shop in Japan!
